@@ -1,7 +1,7 @@
 # Lua
 
 ## Downloads
-Files in ./download from SourceForge on 06/20/25
+Files in ./lua-bins from SourceForge on 06/20/25
 
 
 ## Types
