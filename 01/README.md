@@ -2,7 +2,7 @@
 
 ## Types
 There are eight basic types in Lua: nil, boolean, number, string, function, userdata, thread, and table.
-[types]./01/types.lua
+[types](./types.lua)
 
 ## Global Variables and Environment
 ```
