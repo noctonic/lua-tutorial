@@ -1,5 +1,7 @@
 # Primitives
 
+In this chapter we will discover the building blocks (primitives) of Lua. All of the higher level features will be made up of these pieces.
+
 ## Types
 There are eight basic types in Lua: nil, boolean, number, string, function, userdata, thread, and table.
 [types](./types.lua)
