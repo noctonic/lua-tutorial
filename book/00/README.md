@@ -2,7 +2,7 @@
 
 ## Why Lua?
 
-Lua is fast and lightweight scripting language. The Lua release cycle is much slower than most other scripting languages which means that your knowledge and skills will have a long shelf life.
+Lua is a fast and lightweight scripting language. The Lua release cycle is much slower than most other scripting languages which means that your knowledge and skills will have a long shelf life.
 
 ## Prerequisites
 
