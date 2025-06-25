@@ -17,13 +17,15 @@ Variable names may not start with a number and you may not use any of the follow
      local     nil       not       or        repeat    return
      then      true      until     while
 
+These words make up the core of Lua programming language. To learn more jump to [INSERT]
+
 ## Types
 There are eight basic types that values can have in Lua: nil, boolean, number, string, function, userdata, thread, and table.
-[types](./types.lua)
+[types](./types.lua) To learn more jump to [INSERT]
 
 ## Global Variables and Environment
 
-Our inventory variable becomes a *global* variable by default.
+Our inventory variable becomes a *global* variable by default. We can see a list of global variables with the following command:
 
 ```
 > for x,y in pairs(_ENV) do print(x,y) end
@@ -64,3 +66,5 @@ utf8	table: 0x60000170c6c0
 warn	function: 0x104609de0
 xpcall	function: 0x10460a424
 ```
+
+There is a lot going on in the global table. We can see a mix of tables and functions that are present from the moment you first execute Lua. These tables and function make up the Lua standard library. To learn more jump to [INSERT]

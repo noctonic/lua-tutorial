@@ -4,6 +4,7 @@
 
 Lua is a fast and lightweight scripting language. The Lua release cycle is much slower than most other scripting languages which means that your knowledge and skills will have a long shelf life.
 
+
 ## Prerequisites
 
 This book does not assume you have any prior programming experience. You should, however, be familiar with creating folders and saving files with a text editor and using a terminal to navigate a filesystem. Later chapters that discuss Lua's relationship with C will not cover how to compile C code.
